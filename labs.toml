@@ -1,4 +1,4 @@
-name = "labs_pushed_bundle_v2"
-title = "Labs Pushed Bundle V2"
-description = "Labs example bundle V2 - Just Do It Week!"
+name = "labs_pushed_bundle_from_url"
+title = "Labs Pushed Bundle From URL"
+description = "Labs example bundle from URL - Just Do It Week!"
 access_type = "logged_in"
