@@ -1,0 +1,4 @@
+name = "extension_fixture_bundle"
+title = "Extension Fixture Bundle"
+description = "using labs.toml bundle description"
+access_type = "logged_in"
